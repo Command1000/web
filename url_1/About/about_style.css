@@ -1,0 +1,27 @@
+.icon{
+    color:rgb(52, 68, 61);
+    font-size:25px;
+}
+.B1{
+    background-color: rgba(103, 125, 144, 0.894);
+}
+.B2{
+    background-color: rgba(103, 125, 144, 0.894);
+}
+
+.B3{
+    background-color: rgba(103, 125, 144, 0.894);
+}
+.B4{
+    background-color: rgba(103, 125, 144, 0.894);
+}
+
+body{
+    color: white;
+    background-color: rgba(209, 188, 193);
+}
+
+.container{
+    font-size: medium;
+    background-color: rgb(201, 215, 123);
+}

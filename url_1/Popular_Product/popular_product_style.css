@@ -1,0 +1,25 @@
+body{
+    color:rgb(200, 224, 68);
+    background-color: rgb(167, 164, 209);   
+}
+.icon{
+    color:aliceblue;
+    font-size:25px;
+}
+.B1{
+    background-color: rgba(103, 125, 144, 0.894); ;
+}
+.B2{
+    background-color: rgba(103, 125, 144, 0.894);
+}
+
+
+.B4{
+    background-color: rgba(103, 125, 144, 0.894);
+}
+
+
+img{
+    width: 200px;
+    height: 200px;
+}
